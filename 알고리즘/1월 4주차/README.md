@@ -18,7 +18,7 @@
 	</tr>
 	<tr>
 		<td rowspan="9">&nbsp;&nbsp;&nbsp;1월 4주차(토)&nbsp;&nbsp;&nbsp;</td>
-		<td>Q1008 - A/B(</td>
+		<td>Q1008 - A/B</td>
 	</tr>
 	<tr>
 		<td>Q1085 - 두 수 비교하기</td>
